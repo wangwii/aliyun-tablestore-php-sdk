@@ -1,6 +1,17 @@
 Aliyun TableStore SDK for PHP - Version 4
 ==================================
 
+### Tasks
+* [x] 准备PHP运行环境；
+* [x] 开通服务，创建Table；
+* [x] 运行单元测试示例程序；
+* [] 创建多元索引
+    * 创建表格
+    * 创建多元索引
+* [] 执行多元索引查询
+    * 插入数据
+    * 执行查询
+
 # 说明
 
 Aliyun OTS SDK for PHP，用来通过PHP访问阿里云OTS服务。

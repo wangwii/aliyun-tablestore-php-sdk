@@ -1,0 +1,8 @@
+version: '3'
+services:
+  php:
+    build: .
+    image: 'php-fpm-env:dev'
+    volumes:
+      - .:/app
+    working_dir: /app
